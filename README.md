@@ -12,6 +12,8 @@
 
 - 自动补全（无需命令，输入前半部分括号或者引号即自动补全后半部分）
 
+## 执行shell脚本安装vim新版本 gcc、g++等
+
 #### 插件命令说明
 - NERDTree新建文件、删除文件、设置当前目录为根目录
 
@@ -52,7 +54,7 @@
 
 我目前使用 ,cm注释 使用 ,c<space>取消注释
  
- 
+
  ## 效果展示
 ![image1](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/1.png)
 ![image2](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/2.png)
