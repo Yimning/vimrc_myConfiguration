@@ -54,6 +54,6 @@
  
  
  
-![Image](https://raw.githubusercontent.com/lulushen/SwiftNotes/master/image/1.png)
 ![Image](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/1.png)
+![Image](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/2.png)
 
