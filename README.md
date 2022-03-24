@@ -53,7 +53,7 @@
 我目前使用 ,cm注释 使用 ,c<space>取消注释
  
  
- 
-![Image](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/1.png)
-![Image](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/2.png)
+ ## 效果展示
+![image](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/1.png)
+![image](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/2.png)
 
