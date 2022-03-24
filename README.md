@@ -51,7 +51,9 @@
 |仅使用一组多部分分隔符注释给定行。|,cm|这个我经常用，（这个也就是多行注释只用一个注释标签的意思 例如 /* sdfasdfdfds */ ） |
 
 我目前使用 ,cm注释 使用 ,c<space>取消注释
-
-
-
+ 
+ 
+ ## 效果展示
+![image1](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/1.png)
+![image2](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/2.png)
 
