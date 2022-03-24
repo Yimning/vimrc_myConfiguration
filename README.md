@@ -54,6 +54,6 @@
  
  
  ## 效果展示
-![image](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/1.png)
-![image](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/2.png)
+![image1](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/1.png)
+![image2](https://github.com/Yimning/vimrc_myConfiguration/blob/master/images/2.png)
 
