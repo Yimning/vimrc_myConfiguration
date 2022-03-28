@@ -302,7 +302,7 @@ endfunc
 " 加入shell,Makefile注释
 func SetComment_sh()
 	call setline(3, "#================================================================") 
-	call setline(4, "#   Copyright (C) ".strftime("%Y")." EdisonLiu_ All rights reserved.")
+	call setline(4, "#   Copyright © ".strftime("%Y")." EdisonLiu_ All rights reserved.")
 	call setline(5, "#   ") 
 	call setline(6, "#   @FileName：".expand("%:t")) 
 	call setline(7, "#   @Author: Yimning")
@@ -426,7 +426,7 @@ set guifont=Courier_new:h200:b:cDEFAULT
 "允许插件  
 filetype plugin on
 "共享剪贴板  
-set clipboard=unnamed "系统剪切板共享"
+set clipboard=unnamed "系统剪切板共享,需要安装vim的扩展支持 sudo apt install vim-gtk"  
 "从不备份  
 set nobackup
 "make 运行
