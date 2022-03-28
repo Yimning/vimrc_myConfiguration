@@ -12,6 +12,7 @@ sudo apt-get update
 
 sudo apt-get install vim
 
+sudo apt install vim-gtk
 
 #安装ctags
 sudo apt-get install ctags
