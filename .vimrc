@@ -302,7 +302,7 @@ endfunc
 " 加入shell,Makefile注释
 func SetComment_sh()
 	call setline(3, "#================================================================") 
-	call setline(4, "#   Copyright © ".strftime("%Y")." EdisonLiu_ All rights reserved.")
+	call setline(4, "#   Copyright © ".strftime("%Y")." Yimning. All rights reserved.")
 	call setline(5, "#   ") 
 	call setline(6, "#   @FileName：".expand("%:t")) 
 	call setline(7, "#   @Author: Yimning")
@@ -496,7 +496,7 @@ filetype on
 " 载入文件类型插件
 filetype plugin on
 " 为特定文件类型载入相关缩进文件
-filetype indent on
+filetype indent onEdisonLiu_ All
 " 保存全局变量
 set viminfo+=!
 " 带有如下符号的单词不要被换行分割
