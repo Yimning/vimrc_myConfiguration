@@ -496,7 +496,7 @@ filetype on
 " 载入文件类型插件
 filetype plugin on
 " 为特定文件类型载入相关缩进文件
-filetype indent onEdisonLiu_ All
+filetype indent on
 " 保存全局变量
 set viminfo+=!
 " 带有如下符号的单词不要被换行分割
